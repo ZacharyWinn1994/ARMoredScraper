@@ -106,7 +106,6 @@ One thing I’ve learned on this journey: **there are no tutorials for doing wha
 
 ---
 
-## What I’m Looking For
 
 - Feedback and mentorship from experienced pentesters and web scraping devs.
 - Collaborative opportunities to build real-world automation and security projects.
